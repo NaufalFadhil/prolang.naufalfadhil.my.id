@@ -1,9 +1,10 @@
 ---
-title: Getting Started
+title: Golang
 description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
-weight: 2
+categories: [Documentation, Programming Language]
+tags: [docs, summary]
+sidebar_root_for: self
+weight: 70
 ---
 
 {{% pageinfo %}} This is a placeholder page that shows you how to use this
