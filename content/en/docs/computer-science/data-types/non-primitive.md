@@ -1,17 +1,13 @@
 ---
 title: Example Page
-date: 2017-01-05
-description: >
-  A short lead description about this content page. It can be **bold** or
-  _italic_ and can be split over multiple paragraphs.
-categories: [Examples]
-tags: [test, sample, docs]
+date: 2025-11-27
+draft: true
 ---
 
 {{% pageinfo %}} This is a placeholder page. Replace it with your own content.
 {{% /pageinfo %}}
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io)
+Text can be **bold**, _italic_, d or ~~strikethrough~~. [Links](https://gohugo.io)
 should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. Vape migas chillwave sriracha
