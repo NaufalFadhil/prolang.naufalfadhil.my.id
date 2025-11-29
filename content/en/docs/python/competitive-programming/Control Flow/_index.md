@@ -2,7 +2,7 @@
 title: Control Flow in Competitive Programming with Python
 linkTitle: Control Flow
 description: Introduction and overview of control flow constructs in Python for competitive programming.
-weight: 200
+weight: 10
 draft: false
 ---
 

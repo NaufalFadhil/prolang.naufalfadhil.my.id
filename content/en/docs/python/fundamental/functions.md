@@ -2,7 +2,7 @@
 title: Functions in Python
 linkTitle: Functions
 date: 2025-11-27
-weight: 32
+weight: 33
 ---
 
 Functions are reusable blocks of code that perform a specific task. In Python, functions are defined using the `def` keyword, followed by the function name and parentheses `()`.

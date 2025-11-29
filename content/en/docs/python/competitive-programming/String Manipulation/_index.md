@@ -2,7 +2,7 @@
 title: String Manipulation in Competitive Programming with Python
 linkTitle: String Manipulation
 description: Introduction and overview of string manipulation techniques in Python for competitive programming.
-weight: 200
+weight: 20
 draft: false
 ---
 
