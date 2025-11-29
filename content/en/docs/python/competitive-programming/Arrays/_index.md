@@ -1,6 +1,6 @@
 ---
-title: Arrays in Competitive Programming with Python
-linkTitle: Arrays
+title: Arrays Manipulation in Competitive Programming with Python
+linkTitle: Arrays Manipulation
 description: Introduction and overview of array constructs in Python for competitive programming.
 weight: 30
 draft: false
